@@ -289,7 +289,7 @@ To do an analysis, we plot both the Total geographical area and the forest cover
 
 ## a. Scatter Plot
 
-![png](a_Scatter_plot.png)
+![png](download.png)
 
 
 The percentage column also shows the percentage of forest cover each state has. Using a Bar graph we can visualise that.
