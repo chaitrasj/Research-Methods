@@ -1,4 +1,4 @@
-# Research-Methods
+# DS200 - Research-Methods
 
 ## Assignment 1 - Plots
 
