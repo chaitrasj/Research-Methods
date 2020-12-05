@@ -306,7 +306,6 @@ Data for Box Plot and Line plot is downloaded from https://data.gov.in/catalog/a
 The data gives the All India Monthly Seasonal And Annual Rainfall in mm from 1901 to 2014
 
 
-
 <div>
 
 <table border="1" class="dataframe">
@@ -571,14 +570,12 @@ The data gives the All India Monthly Seasonal And Annual Rainfall in mm from 190
 </div>
 
 
-
 Since rainfall varies every year and also month by month, we can use a Box plot to see the statistics of rainfall for each month of the year, for the past 114 years.
 So the below box plot shows the minimum, first quartile, median, third quartile and maximum of the rainfall values in past 114 years 
 
 ### b. Boxplot
 
 ![png](b_Box_plot.png)
-
 
 We can also see that with each year the amount of rainfall keeps varying. To observe a trend in the rainfall pattern for the past 114 years, we can use a Line plot with X axis as the years and Y axis as the rainfall. Since the X axis is timeline they are dependent variables, hence the points are connected so Line plot is useful here than the Scatter plot. For selected 4 months, i.e. Jan, Apr, Jul and Oct, this trend is plotted.
 
