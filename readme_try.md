@@ -301,7 +301,7 @@ To do an analysis, we plot both the Total geographical area and the forest cover
 
 ## a. Scatter Plot
 
-![png](output_6_0.png)
+![png](a_Scatter_plot.png)
 
 
 The percentage column also shows the percentage of forest cover each state has. Using a Bar graph we can visualise that.
@@ -309,7 +309,7 @@ The percentage column also shows the percentage of forest cover each state has. 
 
 ## Bar plot
 
-![png](output_9_0.png)
+![png](a_Bar_plot.png)
 
 
 Data for Box Plot and Line plot downloaded from https://data.gov.in/catalog/all-india-area-weighted-monthly-seasonal-and-annual-rainfall-mm?filters%5Bfield_catalog_reference%5D=85825&format=json&offset=0&limit=6&sort%5Bcreated%5D=desc
@@ -601,11 +601,11 @@ So the below box plot shows the minimum, first quartile, median, third quartile 
 
 ## b. Boxplot
 
-![png](output_14_0.png)
+![png](b_Box_plot.png)
 
 
 We can also see that with each year the amount of rainfall keeps varying. To observe a trend in the rainfall pattern for the past 114 years, we can use a Line plot with X axis as the years and Y axis as the rainfall. Since the X axis is timeline they are dependent variables, hence the points are connected so Line plot is useful here than the Scatter plot. For selected 4 months, i.e. Jan, Apr, Jul and Oct, this trend is plotted.
 
 ## c. Line plot
 
-![png](output_17_0.png)
+![png](c_Line_plot.png)
