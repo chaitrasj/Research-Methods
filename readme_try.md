@@ -1,13 +1,16 @@
+# Research-Methods
 
-### Research Methods - Assignment 1 - Plots
+## Assignment 1 - Plots
 
+
+
+For this assignment 2 datasets are downloaded from the website https://data.gov.in/ 
+One is used for Scatter Plot and Bar Plot and the other one for Box Plot and Line Plot.
 
 
 Data for Scatter plot is downloaded from https://data.gov.in/resources/stateut-wise-forest-cover-india-state-forest-report-isfr-during-2015from-ministry
 
 The data gives the State/UT-wise Forest cover as per India State of Forest Report (ISFR) during 2015(From : Ministry of Environment, Forest and Climate Change)
-
-
 
 
 <div>
@@ -279,15 +282,13 @@ The data gives the State/UT-wise Forest cover as per India State of Forest Repor
 </table>
 </div>
 
-
-
 Here the independent variables are the states and the dependent variables are the Geographical area, Total forest cover and percentage of area under forest cover.
 Since the independent variables or the states are not related to each other, to analyse this type of data Scatter plot can be used with X axis as the states and Y axis as the dependent variables.
-To do an analysis, we plot both the Total geographical area and the forest cover in a state using Blue and Red color as shown in below plot.
+To do an analysis, we plot both the Total geographical area as well as the Forest cover in each state using Blue and Red color as shown in below plot.
 
 #### Conclusion-The lesser the gap between the Geographical area and the forest cover for a state, the more is the percentage of forest in that state.
 
-## a. Scatter Plot
+### a. Scatter Plot
 
 ![png](download.png)
 
@@ -295,15 +296,14 @@ To do an analysis, we plot both the Total geographical area and the forest cover
 The percentage column also shows the percentage of forest cover each state has. Using a Bar graph we can visualise that.
 #### Conclusion- The observation from Scatter plot is going in accordance with the Bar plot result. Thus the percentage we could effectively deduce without using the third data column of percentage
 
-## Bar plot
+### Bar plot
 
 ![png](a_Bar_plot.png)
 
 
-Data for Box Plot and Line plot downloaded from https://data.gov.in/catalog/all-india-area-weighted-monthly-seasonal-and-annual-rainfall-mm?filters%5Bfield_catalog_reference%5D=85825&format=json&offset=0&limit=6&sort%5Bcreated%5D=desc
+Data for Box Plot and Line plot is downloaded from https://data.gov.in/catalog/all-india-area-weighted-monthly-seasonal-and-annual-rainfall-mm?filters%5Bfield_catalog_reference%5D=85825&format=json&offset=0&limit=6&sort%5Bcreated%5D=desc
 
 The data gives the All India Monthly Seasonal And Annual Rainfall in mm from 1901 to 2014
-
 
 
 
@@ -575,13 +575,13 @@ The data gives the All India Monthly Seasonal And Annual Rainfall in mm from 190
 Since rainfall varies every year and also month by month, we can use a Box plot to see the statistics of rainfall for each month of the year, for the past 114 years.
 So the below box plot shows the minimum, first quartile, median, third quartile and maximum of the rainfall values in past 114 years 
 
-## b. Boxplot
+### b. Boxplot
 
 ![png](b_Box_plot.png)
 
 
 We can also see that with each year the amount of rainfall keeps varying. To observe a trend in the rainfall pattern for the past 114 years, we can use a Line plot with X axis as the years and Y axis as the rainfall. Since the X axis is timeline they are dependent variables, hence the points are connected so Line plot is useful here than the Scatter plot. For selected 4 months, i.e. Jan, Apr, Jul and Oct, this trend is plotted.
 
-## c. Line plot
+### c. Line plot
 
 ![png](c_Line_plot.png)
